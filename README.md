@@ -39,7 +39,7 @@ Besides programing, I play Inline-Hockey
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
-![Soria Github Stats](https://github-readme-stats.vercel.app/api?username=soriagorgoroso&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soriagorgoroso&hide=TeX&layout=compact)
+![Soria Github Stats](https://github-readme-stats.vercel.app/api?username=soriagorgoroso&count_private=true&show_icons=true&include_all_commits=true&theme=swift)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soriagorgoroso&hide=TeX&layout=compact&theme=swift)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=soriagorgoroso.soriagorgoroso)
