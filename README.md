@@ -1,28 +1,29 @@
-### Hi there 👋, I am [Seba](https://github.com/soriagorgoroso)! 😁
-<!--
-**rusty-sj/rusty-sj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 🤔 I’m looking for help with Statistics
-- 👯 I’m looking to collaborate on ...
--->
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am [Seba](https://github.com/soriagorgoroso)! 😁
 
 
-Hello, my name is Sebastian Soria and I am starting my career in the world of web development. I recently finished an intensive bootcamp at [Hack Academy] (https://ha.dev/cursos/coding-bootcamp/) of more than 700 hours. My technology stack involves Html, Css, Bootstrap, Git and GitHub, JavaScript, Vue.js, Ajax, Node.js, Express. React, Passport, MySql, MongoDB.
+<a href="https://www.instagram.com/">
+  <img align="left" alt="Sebastian's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="Zombie48#1820">
+  <img align="left" alt="Sebastian's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://twitter.com/SebaHCK">
+  <img align="left" alt="Sebastian Soria | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/soriagorgoroso/">
+  <img align="left" alt="Sebastian's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+<br />
+
+
+Hello, my name is Sebastian Soria and I am starting my career in the world of web development. I recently finished an intensive bootcamp at [Hack Academy](https://ha.dev/cursos/coding-bootcamp/) of more than 700 hours. My technology stack involves Html, Css, Bootstrap, Git and GitHub, JavaScript, Vue.js, Ajax, Node.js, Express. React, Passport, MySql, MongoDB.
 Besides programing, I play Inline-Hockey 
 
 
 - 📝 [Resume](https://www.canva.com/design/DAE8sitqGkM/UG76vS1vzpN7tmCzZfG1CQ/view?utm_content=DAE8sitqGkM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
-**Languages and Tools:** 
+**Languages and Tools:** <br>
 ![React](https://img.shields.io/badge/-React-black?logo=React&style=social)&nbsp;&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-black?logo=Vue.js&style=social)&nbsp;&nbsp;
 ![Ajax](https://img.shields.io/badge/-AJAX-black?logo=AJAX&style=social)&nbsp;&nbsp;
