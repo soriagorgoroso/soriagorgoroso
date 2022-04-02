@@ -24,6 +24,14 @@ Besides programing, I play Inline-Hockey
 
 **Languages and Tools:** 
 
+![React](https://img.shields.io/badge/-React-black?logo=React&style=social)&nbsp;&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue.js-black?logo=Vue.js&style=social)&nbsp;&nbsp;
+![Ajax](https://img.shields.io/badge/-Ajax-black?logo=Ajax&style=social)&nbsp;&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-black?logo=node.js&style=social)&nbsp;&nbsp;
+![Express](https://img.shields.io/badge/-Express-black?logo=Express&style=social)&nbsp;&nbsp;
+![Passport](https://img.shields.io/badge/-Passport-black?logo=Passport&style=social)&nbsp;&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=MongoDB&style=social)&nbsp;&nbsp;
+
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
