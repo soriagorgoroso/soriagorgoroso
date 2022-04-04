@@ -21,17 +21,17 @@ Hello, my name is Sebastian Soria and I am starting my career in the world of we
 Besides programing, I play Inline-Hockey 
 
 
-- 📝 [Resume](bit.ly/3LC8Wqw)
+- 📝 [Resume](https://bit.ly/3LC8Wqw)
 
 --Projects--
 
-- 📝 [Car Dealership](bit.ly/3LH9bAy)
-- 📝 [Movie App](bit.ly/3LEXfj0)
-- 📝 [E-Commerce](bit.ly/3KcrXzv)
-- 📝 [E-Commerce/ADMIN](bit.ly/3u9zb1u) <br>
+- 📝 [Car Dealership](https://bit.ly/3LH9bAy)
+- 📝 [Movie App](https://bit.ly/3LEXfj0)
+- 📝 [E-Commerce](https://bit.ly/3KcrXzv)
+- 📝 [E-Commerce/ADMIN](https://bit.ly/3u9zb1u) <br>
         - user:  user@hackbeer.com 
         - pass: admin
-- 📝 [E-Commerce/API](bit.ly/37iaMhy)
+- 📝 [E-Commerce/API](https://bit.ly/37iaMhy)
 
 
 
