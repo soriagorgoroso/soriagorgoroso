@@ -23,6 +23,18 @@ Besides programing, I play Inline-Hockey
 
 - 📝 [Resume](bit.ly/3LC8Wqw)
 
+--Projects--
+
+- 📝 [Car Dealership](bit.ly/3LH9bAy)
+- 📝 [Movie App](bit.ly/3LEXfj0)
+- 📝 [E-Commerce](bit.ly/3KcrXzv)
+- 📝 [E-Commerce/ADMIN](bit.ly/3u9zb1u) 
+        - user:  user@hackbeer.com 
+        - pass: admin
+- 📝 [E-Commerce/API](bit.ly/37iaMhy)
+
+
+
 **Languages and Tools:** <br>
 ![React](https://img.shields.io/badge/-React-black?logo=React&style=social)&nbsp;&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-black?logo=Vue.js&style=social)&nbsp;&nbsp;
