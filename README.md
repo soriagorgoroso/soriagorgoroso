@@ -21,7 +21,7 @@ Hello, my name is Sebastian Soria and I am starting my career in the world of we
 Besides programing, I play Inline-Hockey 
 
 
-- 📝 [Resume](https://www.canva.com/design/DAE8sitqGkM/UG76vS1vzpN7tmCzZfG1CQ/view?utm_content=DAE8sitqGkM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- 📝 [Resume](bit.ly/3LC8Wqw)
 
 **Languages and Tools:** <br>
 ![React](https://img.shields.io/badge/-React-black?logo=React&style=social)&nbsp;&nbsp;
