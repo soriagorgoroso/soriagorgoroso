@@ -17,7 +17,7 @@
 <br />
 
 <br>
-Hello, my name is Sebastian Soria and I am starting my career in the world of web development. I recently finished an intensive bootcamp at [HackAcademy] whit more than 700 hours. My technology stack involves Html, Css, Bootstrap, Git and GitHub, JavaScript, Vue.js, Ajax, Node.js, Express. React, Passport, MySql, MongoDB.
+Hello, my name is Sebastian Soria and I am starting my career in the world of web development. I recently finished an intensive bootcamp at [HackAcademy] whit more than 700 hours. My technology stack involves HTML, CSS, Bootstrap, Git and GitHub, JavaScript, Vue.js, Ajax, Node.js, Express, React, Passport, MySQL, MongoDB.
 Besides programing, I play Inline-Hockey 
 
 
