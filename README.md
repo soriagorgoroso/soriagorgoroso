@@ -31,7 +31,7 @@ Besides programing, I play Inline-Hockey
         -You must SignIn
 - 📝 [E-Commerce](https://bit.ly/3KcrXzv)
 - 📝 [E-Commerce/ADMIN](https://bit.ly/3u9zb1u) <br>
-        - user:  user@hackbeer.com <br>
+        - user:  user@hackbier.com <br>
         - pass: admin
 - 📝 [E-Commerce/API](https://bit.ly/37iaMhy)
 
