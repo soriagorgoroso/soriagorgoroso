@@ -28,11 +28,12 @@ Besides programing, I play Inline-Hockey
 - 📝 [Car Dealership](https://proyectofinalha2021.netlify.app/)
 - 📝 [Movie App](https://bit.ly/3LEXfj0)
 - 📝 [Clon twitter](https://bit.ly/3O6k29m)<br>
-        -You must SignIn
+        -You can sign in or log in
 - 📝 [E-Commerce](https://bit.ly/3KcrXzv)
 - 📝 [E-Commerce/ADMIN](https://bit.ly/3u9zb1u) <br>
-        - user:  user@hackbier.com <br>
-        - pass: admin
+        -You can singin or login whit:
+          - user:  user@hackbier.com <br>
+          - pass: admin
 - 📝 [E-Commerce/API](https://bit.ly/37iaMhy)
 
 
