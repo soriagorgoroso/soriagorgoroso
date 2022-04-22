@@ -40,6 +40,7 @@ Besides programing, I play Inline-Hockey
 
 **Languages and Tools:** <br>
 ![React](https://img.shields.io/badge/-React-black?logo=React&style=social)&nbsp;&nbsp;
+![ReduX](https://img.shields.io/badge/-ReduX-black?logo=ReduX&style=social)&nbsp;&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-black?logo=Vue.js&style=social)&nbsp;&nbsp;
 ![AJAX](https://img.shields.io/badge/-AJAX-black?logo=AJAX&style=social)&nbsp;&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-black?logo=node.js&style=social)&nbsp;&nbsp;
