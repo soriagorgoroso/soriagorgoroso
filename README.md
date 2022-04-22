@@ -22,7 +22,7 @@ Besides programing, I play Inline-Hockey
 
 
 - 📝 [Resume](https://bit.ly/3LC8Wqw)
-<img src = '/img/HackAcademy_CodingBootcamp_CertificadoDeEgreso_SebastiánSoria.png' alt = 'Diploma HA' align='right' width="200"/>
+<img src = '/img/HackAcademy_CodingBootcamp_CertificadoDeEgreso_SebastiánSoria.png' alt = 'Awesome Matrix Code' align='right'/>
 --Projects--
 
 - 📝 [Car Dealership](https://proyectofinalha2021.netlify.app/)
