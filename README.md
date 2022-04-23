@@ -12,20 +12,18 @@
 </a>
 <a href="https://www.linkedin.com/in/soriagorgoroso/">
   <img align="left" alt="Sebastian's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+</a><p  align="right" >
+ <a  href="https://bit.ly/3LC8Wqw">    :bulb:[Resume / CV]   </a>
+</p>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=soriagorgoroso.soriagorgoroso)
-<p  align="right" >
-<a  href="https://bit.ly/3LC8Wqw">    :bulb:[Resume / CV]   </a>
-</p>
+
 <br>
+
+
 <p>
-
-
-
-Hello, my name is Sebastian Soria and I am starting my career in the world of web development. I recently finished an intensive bootcamp at <a >Hack Academy</a> whit more than 700 hours. My technology stack involves HTML, CSS, Bootstrap, Git and GitHub, JavaScript, Vue.js, Ajax, Node.js, Express, React, Passport, MySQL, MongoDB.
+Hello, my name is Sebastian Soria and I am starting my career in the world of web development. I recently finished an intensive bootcamp at <a href="https://ha.dev/">Hack Academy</a> whit more than 700 hours. My technology stack involves HTML, CSS, Bootstrap, Git and GitHub, JavaScript, Vue.js, Ajax, Node.js, Express, React, Passport, MySQL, MongoDB.
 Besides programing, I play Inline-Hockey 
-
 </p>
 
 
