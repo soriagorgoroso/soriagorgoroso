@@ -15,8 +15,8 @@
 </a>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=soriagorgoroso.soriagorgoroso)
-<p align="right">
-<a  href="https://bit.ly/3LC8Wqw">    Resume / CV   </a>
+<p  align="right" >
+<a  href="https://bit.ly/3LC8Wqw">    :bulb:[Resume / CV]   </a>
 </p>
 <br>
 <p>
@@ -32,28 +32,32 @@ Besides programing, I play Inline-Hockey
 
 ## Projects
 <p align = "start">
-<a  href="https://proyectofinalha2021.netlify.app">    Car Dealership   </a>
+<a  href="https://proyectofinalha2021.netlify.app">    🚗Car Dealership   </a>
+</p>
+
+<p align = "start">
+<a  href="https://bit.ly/3LEXfj0">    🍿Movie App   </a>
 </p>
 <p align = "start">
-<a  href="https://bit.ly/3LEXfj0">    Movie App   </a>
-</p>
-<p align = "start">
-<a  href="https://bit.ly/3O6k29m">    Clon twitter   </a><br>
+<a  href="https://bit.ly/3O6k29m">    🐦Twitter Clone    </a><br>
    You can singin or login whit: <br>
           - user:  admin <br>
           - pass: admin  <br>
 </p>
 <p align = "start">
-<a  href="https://bit.ly/3KcrXzv">    E-Commerce   </a>
+<a  href="https://bit.ly/3KcrXzv">    🍺E-Commerce   </a>
+     You can singin or login whit: <br>
+          - user:  user@hackbier.com <br>
+          - pass: admin<br>
 </p>
 <p align = "start">
-<a  href="https://bit.ly/3u9zb1u">    E-Commerce/ADMIN   </a><br>
+<a  href="https://bit.ly/3u9zb1u">    📝E-Commerce/ADMIN   </a><br>
    You can singin or login whit: <br>
           - user:  user@hackbier.com <br>
           - pass: admin<br>
 </p>
 <p align = "start">
-<a  href="https://bit.ly/37iaMhy">    E-Commerce/API  </a>
+<a  href="https://bit.ly/37iaMhy">    💾E-Commerce/API  </a>
 </p>
 
 
