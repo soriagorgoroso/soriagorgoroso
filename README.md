@@ -21,7 +21,7 @@ Hello, my name is Sebastian Soria and I am starting my career in the world of we
 Besides programing, I play Inline-Hockey 
 
 
-[Resume](https://bit.ly/3LC8Wqw)
+## [Resume](https://bit.ly/3LC8Wqw)
 
 --Projects--
 
