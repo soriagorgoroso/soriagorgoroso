@@ -15,18 +15,20 @@
 </a>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=soriagorgoroso.soriagorgoroso)
-
-<br />
-
+<p align="right">
+<a  href="https://bit.ly/3LC8Wqw">    Resume / CV   </a>
+</p>
 <br>
 <p>
+
+
+
 Hello, my name is Sebastian Soria and I am starting my career in the world of web development. I recently finished an intensive bootcamp at <a >Hack Academy</a> whit more than 700 hours. My technology stack involves HTML, CSS, Bootstrap, Git and GitHub, JavaScript, Vue.js, Ajax, Node.js, Express, React, Passport, MySQL, MongoDB.
 Besides programing, I play Inline-Hockey 
 
 </p>
 
 
-### [Resume / CV](https://bit.ly/3LC8Wqw)
 
 ## Projects
 <p align = "start">
