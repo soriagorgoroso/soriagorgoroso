@@ -59,6 +59,6 @@ Besides programing, I play Inline-Hockey
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
 
-<img align="right" height="195px" width="330px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=soriagorgoroso&hide=TeX&layout=compact&theme=swift"/>
+<img align="right" justify="top" height="195px" width="330px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=soriagorgoroso&hide=TeX&layout=compact&theme=swift"/>
 <img align="left"  src="https://github-readme-stats.vercel.app/api?username=soriagorgoroso&count_private=true&show_icons=true&include_all_commits=true&theme=swift"/>
 
