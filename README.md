@@ -58,6 +58,6 @@ Besides programing, I play Inline-Hockey
 
 
 <img height="195px" width="45%" align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=soriagorgoroso&hide=TeX&layout=compact&theme=swift"/>
-<img height="195px" width="45%" align="left"  src="https://github-readme-stats.vercel.app/api?username=soriagorgoroso&count_private=true&show_icons=true&include_all_commits=true&theme=swift"/>
+<img height="" width="45%" align="left"  src="https://github-readme-stats.vercel.app/api?username=soriagorgoroso&count_private=true&show_icons=true&include_all_commits=true&theme=swift"/>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=soriagorgoroso.soriagorgoroso)
