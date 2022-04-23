@@ -20,7 +20,7 @@
 
 <br>
 <p>
-Hello, my name is Sebastian Soria and I am starting my career in the world of web development. I recently finished an intensive bootcamp at <a href="https://ha.dev/">Hack Academy</a> whit more than 700 hours. My technology stack involves HTML, CSS, Bootstrap, Git and GitHub, JavaScript, Vue.js, Ajax, Node.js, Express, React, Passport, MySQL, MongoDB.
+Hello, my name is Sebastian Soria and I am starting my career in the world of web development. I recently finished an intensive bootcamp at <a >Hack Academy</a> whit more than 700 hours. My technology stack involves HTML, CSS, Bootstrap, Git and GitHub, JavaScript, Vue.js, Ajax, Node.js, Express, React, Passport, MySQL, MongoDB.
 Besides programing, I play Inline-Hockey 
 
 </p>
@@ -29,18 +29,30 @@ Besides programing, I play Inline-Hockey
 ## [Resume](https://bit.ly/3LC8Wqw)
 
 --Projects--
-
-- 📝 [Car Dealership](https://proyectofinalha2021.netlify.app/)
-- 📝 [Movie App](https://bit.ly/3LEXfj0)
-- 📝 [Clon twitter](https://bit.ly/3O6k29m)<br>
-        -You can sign in or log in
-- 📝 [E-Commerce](https://bit.ly/3KcrXzv)
-- 📝 [E-Commerce/ADMIN](https://bit.ly/3u9zb1u) <br>
-      You can singin or login whit: <br>
+<p align = "start">
+<a  href="https://proyectofinalha2021.netlify.app">    Car Dealership   </a>
+</p>
+<p align = "start">
+<a  href="https://bit.ly/3LEXfj0">    Movie App   </a>
+</p>
+<p align = "start">
+<a  href="https://bit.ly/3O6k29m">    Clon twitter   </a><br>
+   You can singin or login whit: <br>
+          - user:  admin <br>
+          - pass: admin  <br>
+</p>
+<p align = "start">
+<a  href="https://bit.ly/3KcrXzv">    E-Commerce   </a>
+</p>
+<p align = "start">
+<a  href="https://bit.ly/3u9zb1u">    E-Commerce/ADMIN   </a><br>
+   You can singin or login whit: <br>
           - user:  user@hackbier.com <br>
-          - pass: admin
-- 📝 [E-Commerce/API](https://bit.ly/37iaMhy)
-
+          - pass: admin<br>
+</p>
+<p align = "start">
+<a  href="https://bit.ly/37iaMhy">    E-Commerce/API  </a>
+</p>
 
 
 ## **Languages and Tools:** <br>
