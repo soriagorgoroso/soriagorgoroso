@@ -28,7 +28,7 @@ Besides programing, I play Inline-Hockey
 
 ## [Resume](https://bit.ly/3LC8Wqw)
 
---Projects--
+### Projects
 <p align = "start">
 <a  href="https://proyectofinalha2021.netlify.app">    Car Dealership   </a>
 </p>
