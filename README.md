@@ -19,8 +19,11 @@
 <br />
 
 <br>
-Hello, my name is Sebastian Soria and I am starting my career in the world of web development. I recently finished an intensive bootcamp at [HackAcademy] whit more than 700 hours. My technology stack involves HTML, CSS, Bootstrap, Git and GitHub, JavaScript, Vue.js, Ajax, Node.js, Express, React, Passport, MySQL, MongoDB.
+<p>
+Hello, my name is Sebastian Soria and I am starting my career in the world of web development. I recently finished an intensive bootcamp at <a href="https://ha.dev/">Hack Academy</a> whit more than 700 hours. My technology stack involves HTML, CSS, Bootstrap, Git and GitHub, JavaScript, Vue.js, Ajax, Node.js, Express, React, Passport, MySQL, MongoDB.
 Besides programing, I play Inline-Hockey 
+
+</p>
 
 
 ## [Resume](https://bit.ly/3LC8Wqw)
@@ -40,7 +43,7 @@ Besides programing, I play Inline-Hockey
 
 
 
-**Languages and Tools:** <br>
+## **Languages and Tools:** <br>
 ![React](https://img.shields.io/badge/-React-black?logo=React&style=social)&nbsp;&nbsp;
 ![ReduX](https://img.shields.io/badge/-ReduX-black?logo=ReduX&style=social)&nbsp;&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-black?logo=Vue.js&style=social)&nbsp;&nbsp;
