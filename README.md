@@ -71,10 +71,10 @@ Besides programing, I play Inline-Hockey
 <tbody>
  <tr>
     <td class="tg-0pky"><img src="https://github.com/soriagorgoroso/soriagorgoroso/blob/main/img/Cardealership.png?raw=true" alt="Image" width="200" height="100"></td>
-    <td class="tg-0pky"><img src="https://github.com/soriagorgoroso/soriagorgoroso/blob/main/img/hackflix.png?raw=true" alt="Image" width="200" height="98"></td>
-    <td class="tg-0pky"><img src="https://github.com/soriagorgoroso/soriagorgoroso/blob/main/img/twiiter.png?raw=true" alt="Image" width="200" height="96"></td>
-    <td class="tg-0pky"><img src="https://github.com/soriagorgoroso/soriagorgoroso/blob/main/img/hackbier.png?raw=true" alt="Image" width="200" height="98"></td>
-    <td class="tg-8bgf"><img src="https://github.com/soriagorgoroso/soriagorgoroso/blob/main/img/dashboard.png?raw=true" alt="Image" width="200" height="96"></td>
+    <td class="tg-0pky"><img src="https://github.com/soriagorgoroso/soriagorgoroso/blob/main/img/hackflix.png?raw=true" alt="Image" width="200" height="100"></td>
+    <td class="tg-0pky"><img src="https://github.com/soriagorgoroso/soriagorgoroso/blob/main/img/twiiter.png?raw=true" alt="Image" width="200" height="100"></td>
+    <td class="tg-0pky"><img src="https://github.com/soriagorgoroso/soriagorgoroso/blob/main/img/hackbier.png?raw=true" alt="Image" width="200" height="100"></td>
+    <td class="tg-8bgf"><img src="https://github.com/soriagorgoroso/soriagorgoroso/blob/main/img/dashboard.png?raw=true" alt="Image" width="200" height="100"></td>
   </tr>
 </tbody>
 </tbody>
