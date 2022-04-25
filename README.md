@@ -20,7 +20,6 @@
 
 <br>
 
-
 <p>
 Hello, my name is Sebastian Soria and I am starting my career in the world of web development. I recently finished an intensive bootcamp at <a href="https://ha.dev/">Hack Academy</a> whit more than 700 hours. My technology stack involves HTML, CSS, Bootstrap, Git and GitHub, JavaScript, Vue.js, Ajax, Node.js, Express, React, Passport, MySQL, MongoDB.
 Besides programing, I play Inline-Hockey 
@@ -46,31 +45,42 @@ Besides programing, I play Inline-Hockey
 
 
 ## Projects
-<p align = "start">
-<a  href="https://proyectofinalha2021.netlify.app">    🚗Car Dealership   </a>
-</p>
 
-<p align = "start">
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky"><p align = "start">
+<a  href="https://proyectofinalha2021.netlify.app">    🚗Car Dealership   </a>
+</p></th>
+    <th class="tg-0pky"><p align = "start">
 <a  href="https://bit.ly/3LEXfj0">    🍿Movie App   </a>
-</p>
-<p align = "start">
+</p></th>
+    <th class="tg-0pky"><p align = "start">
 <a  href="https://bit.ly/3O6k29m">    🐦Twitter Clone    </a><br>
-   You can singin or login whit: <br>
-          - user:  admin <br>
-          - pass: admin  <br>
-</p>
-<p align = "start">
+</p></th>
+    <th class="tg-0pky"><p align = "start">
 <a  href="https://bit.ly/3KcrXzv">    🍺E-Commerce   </a><br>
-     You can singin or login whit: <br>
-          - user:  user@hackbier.com <br>
-          - pass: admin<br>
-</p>
-<p align = "start">
-<a  href="https://bit.ly/3u9zb1u">    📝E-Commerce/ADMIN   </a><br>
-   You can singin or login whit: <br>
-          - user:  user@hackbier.com <br>
-          - pass: admin<br>
-</p>
+   
+</p></th>
+    <th class="tg-0pky"><p align = "start">
+<a  href="https://bit.ly/3u9zb1u">    📝E-Commerce </br>Dashboard   </a><br>
+  
+</p></th>
+  </tr>
+</thead>
+<tbody>
+ <tr>
+    <td class="tg-0pky"><img src="https://github.com/soriagorgoroso/soriagorgoroso/blob/main/img/Cardealership.png?raw=true" alt="Image" width="200" height="100"></td>
+    <td class="tg-0pky"><img src="https://github.com/soriagorgoroso/soriagorgoroso/blob/main/img/hackflix.png?raw=true" alt="Image" width="200" height="98"></td>
+    <td class="tg-0pky"><img src="https://github.com/soriagorgoroso/soriagorgoroso/blob/main/img/twiiter.png?raw=true" alt="Image" width="200" height="96"></td>
+    <td class="tg-0pky"><img src="https://github.com/soriagorgoroso/soriagorgoroso/blob/main/img/hackbier.png?raw=true" alt="Image" width="200" height="98"></td>
+    <td class="tg-8bgf"><img src="https://github.com/soriagorgoroso/soriagorgoroso/blob/main/img/dashboard.png?raw=true" alt="Image" width="200" height="96"></td>
+  </tr>
+</tbody>
+</tbody>
+</table>
+
+
 <p align = "start">
 <a  href="https://bit.ly/37iaMhy">    💾E-Commerce/API  </a>
 </p>
