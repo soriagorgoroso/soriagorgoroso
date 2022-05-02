@@ -67,7 +67,9 @@ Besides programing, I play Inline-Hockey
 </tbody>
 </tbody>
 </table>
-## Projects
+
+## **Projects** <br>
+
 
 <table class="tg">
 <thead>
