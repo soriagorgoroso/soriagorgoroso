@@ -85,6 +85,7 @@ Besides programing, I play Inline-Hockey
 </p></th>
     <th class="tg-0pky"><p align = "start">
 <a  href="https://bit.ly/3KcrXzv">    🍺E-Commerce   </a><br>
+<a  href="https://bit.ly/37iaMhy">    💾E-Commerce/API  </a>
    
 </p></th>
     <th class="tg-0pky"><p align = "start">
@@ -107,7 +108,6 @@ Besides programing, I play Inline-Hockey
 
 
 <p align = "start">
-<a  href="https://bit.ly/37iaMhy">    💾E-Commerce/API  </a>
 </p>
 
 
