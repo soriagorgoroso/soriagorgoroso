@@ -60,8 +60,8 @@ Besides programing, I play Inline-Hockey
 </thead>
 <tbody>
  <tr>
-    <td class="tg-0pky"><img src="https://github.com/soriagorgoroso/soriagorgoroso/blob/main/img/Scoreboard-2-5-2022.png?raw=true" alt="Image" width="200" height="100"></td>
-    <td class="tg-0pky"><img src="https://github.com/soriagorgoroso/soriagorgoroso/blob/main/img/Web3d.png?raw=true" alt="Image" width="200" height="100"></td>
+    <td class="tg-0pky"><img src="https://github.com/soriagorgoroso/soriagorgoroso/blob/main/img/scoreboard_2-5-%5B2022.jpeg" alt="Image" width="200" height="100"></td>
+    <td class="tg-0pky"><img src="https://github.com/soriagorgoroso/soriagorgoroso/blob/main/img/Web3d.jpeg" alt="Image" width="200" height="100"></td>
  <tr>
    
 </tbody>
