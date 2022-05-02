@@ -44,6 +44,29 @@ Besides programing, I play Inline-Hockey
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
 
+## Actually working in this
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky"><p align = "start">
+<a  href="">    INLINE HOCKEY SCORE BOARD   </a>
+</p></th>
+        <th class="tg-0pky"><p align = "start">
+<a  href="">    USE OF THREE.JS   </a>
+</p></th>
+  
+</p></th>
+  </tr>
+</thead>
+<tbody>
+ <tr>
+    <td class="tg-0pky"><img src="https://github.com/soriagorgoroso/soriagorgoroso/blob/main/img/Scoreboard-2-5-2022.png?raw=true" alt="Image" width="200" height="100"></td>
+    <td class="tg-0pky"><img src="https://github.com/soriagorgoroso/soriagorgoroso/blob/main/img/Web3d.png?raw=true" alt="Image" width="200" height="100"></td>
+ <tr>
+   
+</tbody>
+</tbody>
+</table>
 ## Projects
 
 <table class="tg">
