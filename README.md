@@ -15,7 +15,10 @@
 </a><p  align="right" >
  <a  href="https://bit.ly/3LC8Wqw">    :bulb:[Resume / CV]   </a>
 </p>
-
+</a><p  align="right" >
+ <a  href="https://bit.ly/37kAkL9
+">    💪[Portfolio]   </a>
+</p>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=soriagorgoroso.soriagorgoroso)
 
 <br>
