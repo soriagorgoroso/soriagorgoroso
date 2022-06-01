@@ -1,5 +1,5 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px"> I am [Seba](https://github.com/soriagorgoroso)! 😁
-
+### Hi there I am [Seba](https://github.com/soriagorgoroso)! 😁
+<!--  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px"> -->
 
 <a href="https://www.instagram.com/">
   <img align="left" alt="Sebastian's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
