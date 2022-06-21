@@ -110,6 +110,25 @@ Besides programing, I play Inline-Hockey
 </tbody>
 </table>
 
+## **Udemy** <br>
+
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky"><p align = "start">
+      <a  href="https://bit.ly/37iaMhy](https://github.com/soriagorgoroso/consoleTask">   :notebook:Console Task App  </a>
+   </th>
+</p></th>
+  </tr>
+</thead>
+<tbody>
+ <tr>
+    <td class="tg-0pky"><img src="https://github.com/soriagorgoroso/soriagorgoroso/blob/main/img/Screenshot%202022-06-21%20045158.png?raw=true" alt="Image" width="200" height="100"></td>
+   
+</tbody>
+</tbody>
+</table>
 
 <p align = "start">
 </p>
