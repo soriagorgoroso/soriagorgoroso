@@ -117,7 +117,7 @@ Besides programing, I play Inline-Hockey
 <thead>
   <tr>
     <th class="tg-0pky"><p align = "start">
-      <a  href="https://bit.ly/37iaMhy](https://github.com/soriagorgoroso/consoleTask">   :notebook:Console Task App  </a>
+      <a  href="https://github.com/soriagorgoroso/consoleTask">   :notebook:Console Task App  </a>
    </th>
 </p></th>
   </tr>
