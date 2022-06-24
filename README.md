@@ -119,7 +119,7 @@ Besides programing, I play Inline-Hockey
     <th class="tg-0pky"><p align = "start">
       <a  href="https://github.com/soriagorgoroso/consoleTask">   :notebook:Console Task App  </a>
    </th>  
-    <th class="tg-0pky">
+    <th class="tg-0pky"><p align = "start">
       <a  href="https://github.com/soriagorgoroso/consoleWheather">   :notebook:Console Wheather App  </a>
    </th>
        <th class="tg-0pky"><p align = "start">
