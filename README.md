@@ -46,6 +46,7 @@ Besides programing, I play Inline-Hockey
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
+![Three.js](https://img.shields.io/badge/-Three.js-black?logo=Three.js&style=social)&nbsp;&nbsp;
 
 
 ## Actually working in this
