@@ -133,7 +133,7 @@ Besides programing, I play Inline-Hockey
    </td>
     <td class="tg-0pky"><img src="https://github.com/soriagorgoroso/soriagorgoroso/blob/main/img/wheather.png" alt="Image" width="200" height="100">
    </td>
-      <td class="tg-0pky"><img src="https://github.com/soriagorgoroso/soriagorgoroso/blob/main/img/webtrip.png" alt="Image" width="200" height="100">
+      <td class="tg-0pky"><img src="https://github.com/soriagorgoroso/soriagorgoroso/blob/main/img/image.png" alt="Image" width="200" height="100">
    </td>
 </tbody>
 </tbody>
