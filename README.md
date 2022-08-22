@@ -106,6 +106,9 @@ Besides programing, I play Inline-Hockey
        <th class="tg-0pky"><p align = "start">
       <a  href="https://bit.ly/3OCzklH">   ✈️:Web Trip  </a>
     </th>
+       <th class="tg-0pky"><p align = "start">
+      <a  href="https://bit.ly/3PF1XPa">   :alien:Gif App  </a>
+    </th>
   </tr>
 </thead>
 <tbody>
@@ -115,6 +118,9 @@ Besides programing, I play Inline-Hockey
     <td class="tg-0pky"><img src="https://github.com/soriagorgoroso/soriagorgoroso/blob/main/img/wheather.png" alt="Image" width="200" height="100">
    </td>
       <td class="tg-0pky"><img src="https://github.com/soriagorgoroso/soriagorgoroso/blob/main/img/image.png" alt="Image" width="200" height="100">
+   </td>
+    </td>
+      <td class="tg-0pky"><img src="https://github.com/soriagorgoroso/soriagorgoroso/blob/main/img/gifapp.png" alt="Image" width="200" height="100">
    </td>
 </tbody>
 </tbody>
