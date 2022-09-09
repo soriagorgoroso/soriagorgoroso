@@ -1,6 +1,6 @@
 ### Hi there I am [Seba](https://github.com/soriagorgoroso)! 😁
 <!--  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px"> -->
-
+<p>"Everyone fails at who they're supposed to be. The measure of a person, of a hero, is how well they succeed at being who they are,"</p>
 <a href="https://www.instagram.com/">
   <img align="left" alt="Sebastian's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -10,6 +10,9 @@
 <a href="https://twitter.com/SebaHCK">
   <img align="left" alt="Sebastian Soria | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
+
+
+
 <a href="https://www.linkedin.com/in/soriagorgoroso/">
   <img align="left" alt="Sebastian's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a><p  align="right" >
