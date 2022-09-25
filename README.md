@@ -32,8 +32,20 @@
 <br>
 
 <p>
-Hello, my name is Sebastian Soria and I am starting my career in the world of web development. I recently finished an intensive bootcamp at <a href="https://ha.dev/">Hack Academy</a> whit more than 700 hours. My technology stack involves HTML, CSS, Bootstrap, Git and GitHub, JavaScript, Vue.js, Ajax, Node.js, Express, React, Passport, MySQL, MongoDB.
-Besides programing, I play Inline-Hockey 
+Hello, my name is Sebastian Soria and I am starting my career in the world of web development.
+</p>
+
+<p>
+I finish a bootcamp at <a href="https://ha.dev/">Hack Academy</a> whit more than 700 hours.
+</p>
+<p>
+Actutaly im working at CENCOSUD, and for now in my free time im doing Krav maga, Inline Hockey and reading a lot, im a fan of Manga, Anime and of course Marvel, and i like to ride Motorcycle.
+</p>
+<p>
+I would like to lern Archery and Kendo
+</p>
+<p>
+
 </p>
 
 ## **Languages and Tools:** <br>
