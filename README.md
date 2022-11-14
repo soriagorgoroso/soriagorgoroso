@@ -69,6 +69,7 @@ I would like to lern Archery and Kendo
 ![Jest](https://img.shields.io/badge/-Jest-black?logo=Jest&style=social)&nbsp;&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-black?logo=Firebase&style=social)&nbsp;&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-black?logo=Typescript&style=social)&nbsp;&nbsp;
+![Nestjs](https://img.shields.io/badge/-Nestjs-black?logo=Nestjs&style=social)&nbsp;&nbsp;
 
 ## **Projects** <br>
 
