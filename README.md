@@ -36,14 +36,9 @@ Hello, my name is Sebastian Soria and I am starting my career in the world of we
 </p>
 
 <p>
-I finish a bootcamp at <a href="https://ha.dev/">Hack Academy</a> whit more than 700 hours.
-</p>
-<p>
 Actutaly im working at CENCOSUD, and for now in my free time im doing Krav maga, Inline Hockey and reading a lot, im a fan of Manga, Anime and of course Marvel, and i like to ride Motorcycle.
 </p>
-<p>
-I would like to lern Archery and Kendo
-</p>
+
 <p>
 
 </p>
