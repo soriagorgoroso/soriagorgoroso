@@ -1,6 +1,13 @@
 ### Hi there I am [Seba](https://github.com/soriagorgoroso)! 😁
 <!--  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px"> -->
 <p>"Everyone fails at who they're supposed to be. The measure of a person, of a hero, is how well they succeed at being who they are,"</p>
+
+```
+"you miss 100% of the shots you don't take"
+
+                 wayne gretzky / michael scott
+```
+
 <a href="https://www.instagram.com/">
   <img align="left" alt="Sebastian's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
