@@ -72,6 +72,7 @@ Actutaly im working at CENCOSUD, and for now in my free time im doing Krav maga,
 ![Firebase](https://img.shields.io/badge/-Firebase-black?logo=Firebase&style=social)&nbsp;&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-black?logo=Typescript&style=social)&nbsp;&nbsp;
 ![Nestjs](https://img.shields.io/badge/-Nestjs-black?logo=Nestjs&style=social)&nbsp;&nbsp;
+![styled-components](https://img.shields.io/badge/-styledcomponents-black?logo=styled-components&style=social)&nbsp;&nbsp;
 
 ## **Projects** <br>
 
