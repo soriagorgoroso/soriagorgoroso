@@ -23,7 +23,7 @@
 <a href="https://www.linkedin.com/in/soriagorgoroso/">
   <img align="left" alt="Sebastian's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a><p  align="right" >
- <a  href="https://bit.ly/3LC8Wqw">    :bulb:[Resume / CV]   </a>
+ <a  href="http://bit.ly/430e1Cv">    :bulb:[Resume / CV]   </a>
 </p>
 </a><p  align="right" >
  <a  href="https://bit.ly/37kAkL9
