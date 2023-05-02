@@ -74,9 +74,7 @@ Actutaly im working at CENCOSUD, and for now in my free time im doing Box, Inlin
 ![Typescript](https://img.shields.io/badge/-Typescript-black?logo=Typescript&style=social)&nbsp;&nbsp;
 ![Nestjs](https://img.shields.io/badge/-Nestjs-black?logo=Nestjs&style=social)&nbsp;&nbsp;
 ![styled-components](https://img.shields.io/badge/-styledcomponents-black?logo=styled-components&style=social)&nbsp;&nbsp;
-![React](https://img.shields.io/badge/-React_Native-black?logo=React&style=social)&nbsp;&nbsp;
-![Nestjs](https://img.shields.io/badge/-NestJS-black?logo=Nestjs&style=social)&nbsp;&nbsp;
-
+![React-Native](https://img.shields.io/badge/-React_Native-black?logo=React&style=social)&nbsp;&nbsp;
 ## **Projects** <br>
 
 
