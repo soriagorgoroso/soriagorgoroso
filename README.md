@@ -1,7 +1,7 @@
 ### Hi there I am [Seba](https://github.com/soriagorgoroso)! 😁
 
 <p  align="right" >
- <a  href="http://bit.ly/430e1Cv">    :bulb:[Resume / CV]   ||</a>
+ <a  href="https://www.canva.com/design/DAE8sitqGkM/UG76vS1vzpN7tmCzZfG1CQ/view?utm_content=DAE8sitqGkM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">    :bulb:[Resume / CV]   ||</a>
  <a  href="https://bit.ly/37kAkL9
 ">    💪[Portfolio]   ||</a>
    <a  href="https://torre.co/soriagorgoroso
