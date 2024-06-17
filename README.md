@@ -57,8 +57,7 @@
     <th class="tg-0pky"><p align = "start">
 <a  href="https://proyectofinalha2021.netlify.app">    🚗Car Dealership   </a>
 </p></th>
-    <th class="tg-0pky"><p align = "start">
-<a  href="https://bit.ly/3LEXfj0">    🍿Movie App   </a>
+
 </p></th>
     <th class="tg-0pky"><p align = "start">
 <a  href="https://bit.ly/3O6k29m">    🐦Twitter Clone    </a><br>
@@ -77,7 +76,6 @@
 <tbody>
  <tr>
     <td class="tg-0pky"><img src="https://github.com/soriagorgoroso/soriagorgoroso/blob/main/img/Cardealership.png?raw=true" alt="Image" width="200" height="100"></td>
-    <td class="tg-0pky"><img src="https://github.com/soriagorgoroso/soriagorgoroso/blob/main/img/hackflix.png?raw=true" alt="Image" width="200" height="100"></td>
     <td class="tg-0pky"><img src="https://github.com/soriagorgoroso/soriagorgoroso/blob/main/img/twiiter.png?raw=true" alt="Image" width="200" height="100"></td>
     <td class="tg-0pky"><img src="https://github.com/soriagorgoroso/soriagorgoroso/blob/main/img/hackbier.png?raw=true" alt="Image" width="200" height="100"></td>
     <td class="tg-8bgf"><img src="https://github.com/soriagorgoroso/soriagorgoroso/blob/main/img/dashboard.png?raw=true" alt="Image" width="200" height="100"></td>
