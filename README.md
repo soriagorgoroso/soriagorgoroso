@@ -1,11 +1,11 @@
 ### Hi there I am [Seba](https://github.com/soriagorgoroso)! 😁
 
 <p  align="right" >
- <a  href="https://www.canva.com/design/DAE8sitqGkM/UG76vS1vzpN7tmCzZfG1CQ/view?utm_content=DAE8sitqGkM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">    :bulb:[Resume / CV]   ||</a>
+ <a  href="https://www.canva.com/design/DAGHe9Gl_Hc/YbAhRqTLVVeaJawBLh-hVg/view?utm_content=DAGHe9Gl_Hc&utm_campaign=designshare&utm_medium=link&utm_source=editor">    :bulb:[Resume / CV]   ||</a>
  <a  href="https://bit.ly/37kAkL9
 ">    💪[Portfolio]   ||</a>
-   <a  href="https://torre.co/soriagorgoroso
-">    :dog:[Torre Profile]   ||</a>
+   <a  href="https://linkedin.com/in/soriagorgoroso
+">    :dog:[Linkedin]   ||</a>
 </p>
 <!--  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px"> -->
 <p>"Everyone fails at who they're supposed to be. The measure of a person, of a hero, is how well they succeed at being who they are,"</p>
@@ -16,36 +16,10 @@
                  wayne gretzky / michael scott
 ```
 
-<a href="https://www.instagram.com/">
-  <img align="right" alt="Sebastian's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://discordapp.com/users/Zombie48#1820">
-  <img align="right" alt="Sebastian's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/SebaHCK">
-  <img align="right" alt="Sebastian Soria | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/soriagorgoroso/">
-  <img align="right" alt="Sebastian's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a  href="https://app.daily.dev/Zombie48"><img align="left"  src="https://api.daily.dev/devcards/86131696603a4696aa84b08ca2c3cc4f.png?r=1z9" width="400" alt="Sebastian Soria's Dev Card"/></a>
-
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=soriagorgoroso.soriagorgoroso)
 
 <br>
-
-<p>
-Hello, my name is Sebastian Soria and I am starting my career in the world of web development.
-</p>
-
-<p>
-Actutaly im working at CENCOSUD, and for now in my free time im doing Box, Inline Hockey and reading a lot, im a fan of Manga, Anime and of course Marvel, and i like to ride Motorcycle.
-</p>
-
-<p>
-
-</p>
 
 ## **Languages and Tools:** <br>
 
